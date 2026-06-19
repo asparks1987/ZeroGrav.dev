@@ -1,4 +1,4 @@
-# ZeroGrav.dev — Complete System Status
+# ZeroGrav.dev - Complete System Status
 
 **Last updated:** 2026-02-10T01:24:00-06:00
 
@@ -6,9 +6,11 @@
 
 ## Project Overview
 
-**ZeroGrav Prompt Vault** — A single-page web app serving 250 copy-paste-ready AI prompts across 10 real-world product development categories. Built for vibe coders who ship with AI.
+**ZeroGrav Prompt Vault** - A single-page web app serving 250 copy-paste-ready AI prompts across 10 real-world product development categories. Built for vibe coders who ship with AI.
 
-**Live repo:** [github.com/01001101010010010100101101000101/ZeroGrav.dev](https://github.com/01001101010010010100101101000101/ZeroGrav.dev)
+This repository is a fork of [asparks1987/ZeroGrav.dev](https://github.com/asparks1987/ZeroGrav.dev) made specifically so the site can be hosted and viewed cleanly via GitHub Pages.
+
+**Upstream repo:** [github.com/asparks1987/ZeroGrav.dev](https://github.com/asparks1987/ZeroGrav.dev)
 
 ---
 
@@ -28,7 +30,7 @@
 | File | Purpose | Size |
 |---|---|---|
 | `index.html` | Single-page app shell, SEO meta, Schema.org JSON-LD | ~8 KB |
-| `styles.css` | Full design system — dark mode, cards, modals, hero, animations | ~17 KB |
+| `styles.css` | Full design system - dark mode, cards, modals, hero, animations | ~17 KB |
 | `script.js` | 250 prompt blueprints + rendering, search, filters, modal, clipboard | ~74 KB |
 | `logo.svg` | ZeroGrav.dev favicon/logo | ~2 KB |
 | `preview.svg` | Social preview image | ~1.5 KB |
@@ -45,16 +47,16 @@
 
 | # | Category | Icon | Count |
 |---|---|---|---|
-| 1 | Planning | 🧭 | 25 |
-| 2 | UI Design | 🎨 | 25 |
-| 3 | UX Flow | 🧪 | 25 |
-| 4 | Debugging | 🛠️ | 25 |
-| 5 | Refactoring | 🧱 | 25 |
-| 6 | Performance | ⚡ | 25 |
-| 7 | Accessibility | ♿ | 25 |
-| 8 | Content | ✍️ | 25 |
-| 9 | Marketing | 📣 | 25 |
-| 10 | Deployment | 🚀 | 25 |
+| 1 | Planning | Compass | 25 |
+| 2 | UI Design | Palette | 25 |
+| 3 | UX Flow | Lab | 25 |
+| 4 | Debugging | Tools | 25 |
+| 5 | Refactoring | Bricks | 25 |
+| 6 | Performance | Lightning | 25 |
+| 7 | Accessibility | Accessibility | 25 |
+| 8 | Content | Writing | 25 |
+| 9 | Marketing | Megaphone | 25 |
+| 10 | Deployment | Rocket | 25 |
 
 ---
 
@@ -62,7 +64,7 @@
 
 Each prompt is dynamically generated with:
 - **Persona:** "Expert AI coding assistant helping a vibe coder ship fast"
-- **Structure:** Quick Assessment → Implementation Plan → Build Artifacts → Verification → Next Steps
+- **Structure:** Quick Assessment -> Implementation Plan -> Build Artifacts -> Verification -> Next Steps
 - **Style:** Optimized for copy/paste-ready output, shipping speed, and iteration
 - **Context slot:** User pastes their stack, files, goals, and constraints
 
@@ -70,13 +72,13 @@ Each prompt is dynamically generated with:
 
 ## UI Features
 
-- **Hero section** — Animated gradient border, shimmer effect, floating dots
-- **Category filter pills** — Filter prompts by any of the 10 categories
-- **Full-text search** — Searches titles, summaries, and objectives
-- **Prompt cards** — Hover effects, category icons, click-to-expand
-- **Modal** — Viewport-fit with scroll-isolated prompt text, copy buttons (prompt / full), share link
-- **Dark mode** — Full dark theme with glassmorphism effects
-- **Responsive** — Mobile-first layout with adaptive grid
+- **Hero section** - Animated gradient border, shimmer effect, floating dots
+- **Category filter pills** - Filter prompts by any of the 10 categories
+- **Full-text search** - Searches titles, summaries, and objectives
+- **Prompt cards** - Hover effects, category icons, click-to-expand
+- **Modal** - Viewport-fit with scroll-isolated prompt text, copy buttons (prompt / full), share link
+- **Dark mode** - Full dark theme with glassmorphism effects
+- **Responsive** - Mobile-first layout with adaptive grid
 
 ---
 
@@ -100,7 +102,7 @@ Each prompt is dynamically generated with:
 
 ## SEO & Meta
 
-- **Title:** ZeroGrav Prompt Vault — 250 Vibe Coding Prompts
+- **Title:** ZeroGrav Prompt Vault - 250 Vibe Coding Prompts
 - **Description:** 250 battle-tested, copy-paste-ready prompts for vibe coders
 - **OG/Twitter tags:** Configured with preview image
 - **Schema.org:** WebPage + ItemList with 250 items
@@ -110,4 +112,4 @@ Each prompt is dynamically generated with:
 
 ## Status
 
-✅ **All systems operational** — 250 prompts verified, pushed to main, zero errors.
+All systems operational - 250 prompts verified, pushed to main, zero errors.
